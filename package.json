@@ -1,0 +1,13 @@
+{
+  "name": "mycorsowebsite",
+  "version": "1.0.0",
+  "description": "Commercial website example",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Charles Winters",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "sass": "^1.68.0"
+  }
+}
